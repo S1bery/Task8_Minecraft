@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    int landscape[5][5][1];
+    int landscape[5][5][10];
 
     std::cout << "Enter the heights of blocks:" << std::endl;
     for(int i = 0; i < 5; i++) {
